@@ -153,4 +153,4 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 
 ---
 
-> Made with ❤️ by [芝麻糊]
+> Made with ❤️ by [未来有点糊]
