@@ -3,6 +3,7 @@
 > 自媒体爆款选题追踪 Skill - 支持多平台 AI 助手
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![在 Socialistic 上试用 topic-tracker](https://socialistic.ai/api/embed/topic-tracker-1429b1?lang=zh)](https://socialistic.ai/zh/skill/topic-tracker-1429b1?utm_source=github&utm_medium=readme&utm_campaign=20260609-trend-topic-ideation-skills&utm_content=badge)
 
 ---
 
